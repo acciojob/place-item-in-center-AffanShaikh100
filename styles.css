@@ -4,15 +4,14 @@
 	widht:100vw;
 	height:100vh;
 	background: aqua;
+	display:flex;
+	align-items:center;
+	justify-content: center;
 
 }
 .child{
 	width:100px;
 	height:100px;
 	background:red;
-	position:absolute;
-	top:50%;
-	left:50%;
-	right:50%;
-	bottom:50%;
+	
 }
